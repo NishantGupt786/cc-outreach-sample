@@ -1,11 +1,9 @@
-/* Basic Reset */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Body Styling */
 body {
     font-family: Arial, sans-serif;
     background-color: #f9f9f9;
@@ -17,7 +15,6 @@ body {
     margin: 0;
 }
 
-/* Container Styling */
 .container {
     background-color: #fff;
     padding: 20px;
@@ -27,7 +24,6 @@ body {
     text-align: center;
 }
 
-/* Profile Image Styling */
 #profile-image {
     width: 100px;
     height: 100px;
@@ -35,45 +31,38 @@ body {
     margin-bottom: 15px;
 }
 
-/* Header Styling */
 header h1 {
     font-size: 24px;
     margin-bottom: 10px;
     color: #4CAF50;
 }
 
-/* Header Name Styling */
 #student-name {
     color: #007BFF;
 }
 
-/* Details Section Styling */
 .details p {
     margin: 8px 0;
     color: #555;
 }
 
-/* Specific ID Styling in Details */
 #class-info, #division-info, #roll-info, #school-info {
     font-weight: bold;
     color: #333;
 }
 
-/* Marks Section Styling */
 .marks h2 {
     font-size: 20px;
     margin-bottom: 10px;
     color: #333;
 }
 
-/* Table Styling */
 table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 10px;
 }
 
-/* Table Header Styling */
 th, td {
     padding: 8px;
     text-align: left;
@@ -85,7 +74,6 @@ th {
     color: #333;
 }
 
-/* Table Data Styling */
 td {
     color: #666;
 }
